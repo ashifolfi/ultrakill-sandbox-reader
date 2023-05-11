@@ -1,4 +1,4 @@
-# ultrakill-sandbox-reader
+# ULTRAKILL Sandbox Reader
 Simple Lua utility to create extremely human readable variants of ULTRAKILL Sandbox save data in Valve KeyValues Format
 
 ## How to use
